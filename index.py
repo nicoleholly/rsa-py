@@ -1,8 +1,8 @@
 def main():
-    ### 1. generate two prime #'s
+    ### 1. generate two prime #'s (nicole)
     ###     a. have a primality test
     ### 2. Times them together!!
-    ### 3. Select e s.t. gcd(e, p-1,q-1) = 1
+    ### 3. Select e s.t. gcd(e, p-1,q-1) = 1 (kiwako)
     ###     a. have a gcd function
     ###     b. how to get e??
     ### 4. Calculate d (multiplicative inverse)
