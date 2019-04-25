@@ -23,7 +23,7 @@ def main():
         if miller_rabin(q):
             break
     print(p, q)
-
+    n = p * q
 
     ### 3b. refer to https://crypto.stackexchange.com/questions/3110/impacts-of-not-using-rsa-exponent-of-65537
     e = 65537
